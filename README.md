@@ -2,8 +2,6 @@
 A web app to browse, search, and discover anime using an open API.
 
 
-A Quasar Project
-
 ## Install the dependencies
 ```bash
 yarn
@@ -24,14 +22,12 @@ yarn lint
 npm run lint
 ```
 
-
 ### Format the files
 ```bash
 yarn format
 # or
 npm run format
 ```
-
 
 
 ### Build the app for production
@@ -46,20 +42,14 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-
 
 ### you can check if there are any warnings or errors by just running ESLint without the --fix flag:
 ```bash
-npx eslint "src/**/*.{js,vue}" or npx eslint --ext .js,.vue src  or
-npx eslint src  or quasar lint
-
-# Run ESLint with Auto-Fix Command
-npx eslint --fix src
 
 # Working commands in short (In package.json, under "scripts")
 # To check warnings
-npm run lint:fix
+npm run lint
 
 # Fix warnings autpmatically
 npm run lint:fix
 ```
-
 
 ## 🎬 Anime Discovery App
 ```bash
