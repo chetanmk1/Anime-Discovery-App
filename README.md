@@ -40,11 +40,7 @@ quasar build
 ```
 
 ### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
-=======
-# jest_wit_-composition_api
-Built a Vue.js application using the Composition API for better logic reusability and structure. Implemented unit tests with Jest to ensure component reliability and maintainable code quality.
->>>>>>> 97dcbcbfbc8c972b17cbca611e10e41acb1e21e0
+See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js)
 
 
 # you can check if there are any warnings or errors by just running ESLint without the --fix flag:
